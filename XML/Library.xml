@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<library location="New Cairo">
+    <description>
+        A library based in New Cairo
+    </description>
+    <librarian name="Ahmed Wael" phone="01118441530" />
+    <books>
+        <book isbn="978-3-16-148410-0">
+            <title>Learning XML</title>
+            <author>Erik T. Ray</author>
+            <preface>
+                <![CDATA[
+                This book is a comprehensive guide to XML, covering everything from basic syntax to advanced features.
+                ]]>
+            </preface>
+            <publisher>O'Reilly Media</publisher>
+            <year>2003</year>
+            <price currency="USD">39.99</price>
+            <parts>
+
+                <part number="1">
+                    <title>XML Basics</title>
+
+                    <chapters>
+
+                        <chapter number="1">
+                            <title>Introduction to XML</title>
+
+                            <summary>
+                                Overview of XML and its importance.
+                            </summary>
+
+                            <sections>
+
+                                <section id="1.1">
+                                    <paragraph>
+                                        <![CDATA[
+                                        XML stands for eXtensible Markup Language.
+                                        It is designed to store and transport data.
+                                        ]]>
+                                    </paragraph>
+                                </section>
+
+                                <section id="1.2">
+                                    <paragraph>
+                                        <![CDATA[
+                                        XML is both human-readable and machine-readable.
+                                        ]]>
+                                    </paragraph>
+                                </section>
+
+                            </sections>
+                        </chapter>
+
+                    </chapters>
+                </part>
+
+            </parts>
+
+        </book>
+        <book isbn="978-0-7432-7356-5">
+            <title>The Great Gatsby</title>
+            <author>F. Scott Fitzgerald</author>
+            <publisher>Scribner</publisher>
+            <year>1925</year>
+            <price currency="USD">12.99</price>
+            <parts>
+                <part number="1">
+                    <title>Main Story</title>
+                    <chapters>
+                        <chapter number="1">
+                            <title>Chapter One</title>
+                            <summary>
+                                Introduction to the characters and setting.
+                            </summary>
+                            <sections>
+                                <section id="1.1">
+                                    <paragraph>
+                                        In my younger and more vulnerable years my father gave me some advice that I've been turning over in my mind ever since.
+                                    </paragraph>
+                                </section>
+                                <section id="1.2">
+                                    <paragraph>
+                                        Whenever you feel like criticizing any one,' he told me, 'just remember that all the people in this world haven't had the advantages that you've had.
+                                    </paragraph>
+                                </section>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+            </parts>
+        </book>
+    </books>
+</library>

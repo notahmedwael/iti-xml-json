@@ -1,0 +1,85 @@
+{
+    "library_config": {
+        "location": "New Cairo",
+        "description": "A library based in New Cairo",
+        "librarian": {
+            "name": "Ahmed Wael",
+            "id": "20210045"
+        },
+        "books": [
+            {
+                "title": "The Architecture of Atoms",
+                "isbn": "978-3-16-148410-0",
+                "author": "Dr. Elena Sterling",
+                "preface": "An introductory look at atomic structures in the modern age.",
+                "publisher": "Someone",
+                "year": "2000",
+                "price": "49.99",
+                "parts": [
+                    {
+                        "part_title": "Part I: Fundamental Particles",
+                        "chapters": [
+                            {
+                                "chapter_title": "Chapter 1: The Nucleus",
+                                "summary": "This chapter explores the core of the atom.",
+                                "sections": [
+                                    {
+                                        "section_title": "Protons and Neutrons",
+                                        "content": [
+                                            "The nucleus is composed of protons and neutrons.",
+                                            "Protons carry a positive charge, while neutrons are neutral.",
+                                            "Together, they account for nearly all of an atom's mass."
+                                        ]
+                                    },
+                                    {
+                                        "section_title": "This chapter reviews Bohr",
+                                        "content": [
+                                            "Bohr was great",
+                                            "We all like Bohr"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Bridge to Terabithia",
+                "isbn": "978-0-06-073401-5",
+                "author": "Katherine Paterson",
+                "preface": "A story of friendship and the power of imagination.",
+                "publisher": "Someone",
+                "year": "1977",
+                "price": "29.99",
+                "parts": [
+                    {
+                        "part_title": "Part 1: The Creation of a Kingdom",
+                        "chapters": [
+                            {
+                                "chapter_title": "Chapter 4: Rulers of Terabithia",
+                                "summary": "Jess and Leslie find a secret place in the woods and name it Terabithia.",
+                                "sections": [
+                                    {
+                                        "section_title": "Crossing the Creek",
+                                        "content": [
+                                            "They use a rope swing to cross the gully into their new kingdom.",
+                                            "Leslie declares they need a place that is theirs alone, away from the world."
+                                        ]
+                                    },
+                                    {
+                                        "section_title": "Ending",
+                                        "content": [
+                                            "A very sad ending",
+                                            "Our childhood trauma"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
